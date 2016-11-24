@@ -49,7 +49,3 @@ nav ul li a{
 .skewed{
 	transform: perspective(700px)scale(0.5)translateX(-16.66%)rotateY(25deg);
 }
-
-.front{
-	/*transform: perspective(700px)scale(0.5)translateX(-16.66%)rotateY(25deg);*/
-}
